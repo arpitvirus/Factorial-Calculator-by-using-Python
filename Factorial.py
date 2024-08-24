@@ -14,5 +14,4 @@ print(factorial)
 # while i<=number:
 #     factorial = factorial* i
 #     i+=1
-
 # print(factorial)
